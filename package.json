@@ -1,0 +1,19 @@
+{
+  "name": "docker-image-demo",
+  "version": "1.0.0",
+  "description": "Demo for docker image with  node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "author": "adarsh_thakur",
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
